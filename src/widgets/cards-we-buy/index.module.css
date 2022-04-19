@@ -1,0 +1,19 @@
+.cards_we_buy {
+    margin-top: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.list_item_circle {
+    border-radius: 100vh;
+    background-color: #D3EDFF;
+}
+
+.coral_strip_1 {
+    background-color: #F44607;
+}
+
+.coral_strip_2 {
+    background-color: #FFD2AA;
+}

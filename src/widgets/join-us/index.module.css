@@ -1,0 +1,9 @@
+.horizontal_slide {
+    width: calc(100vw - 2rem);
+    overflow-x: auto;
+}
+
+.percent_box {
+    min-width: 40%;
+    border-radius: 8px;
+}

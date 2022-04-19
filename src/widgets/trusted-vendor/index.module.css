@@ -1,0 +1,11 @@
+.trusted_vendor {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+
+.company_logo {
+    background-position: center;
+    background-size: 80% auto;
+    background-repeat: no-repeat;  
+}

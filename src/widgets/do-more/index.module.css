@@ -1,0 +1,11 @@
+.do_more_section {
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.do_more_btn {
+    background-color: white;
+    border-radius: 8px;
+}

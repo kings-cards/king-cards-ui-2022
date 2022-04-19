@@ -1,0 +1,35 @@
+.white--text {
+    color: white;
+}
+
+.grey--text {
+    color: grey;
+}
+
+.red--text {
+    color: #EB5757;
+}
+
+.blue--text {
+    color: #2F80ED;
+}
+
+.green--text {
+    color: #219653;
+}
+
+.light-red {
+    background-color: #FFF2EE;
+}
+
+.light-blue {
+    background-color: #D3EDFF;
+}
+
+.light-green {
+    background-color: #E4FFF0;
+}
+
+.blue {
+    background-color: #2F80ED;
+}

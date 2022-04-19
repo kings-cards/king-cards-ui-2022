@@ -1,0 +1,9 @@
+.input_container {
+    height: 50px;
+    overflow: hidden;
+}
+
+.submit_btn {
+    background-color: #1585D7;
+    border-radius: 8px;
+}

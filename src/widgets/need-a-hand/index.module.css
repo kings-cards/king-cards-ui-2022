@@ -1,0 +1,11 @@
+.need_a_hand {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.why_btn {
+    width: fit-content;
+    background-color: #1585D7;
+    border-radius: 8px;
+}

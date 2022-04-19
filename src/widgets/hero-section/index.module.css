@@ -1,0 +1,41 @@
+.hero_section, .background, .foreground {
+    height: 100vh;
+}
+
+.background_image {
+    width: 150vw;
+    height: 100%;
+    position: relative;
+    left: -25vw;
+    border-bottom-left-radius: 85vw 100px;
+    border-bottom-right-radius: 65vw 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foreground {
+    position: relative;
+    top: -100vh;
+}
+
+.hero_text_container {
+    padding-top: 120px;
+}
+
+.app_button {
+    height: 45px;
+    border-radius: 8px;
+    background-image: linear-gradient(to top right, #181920, #626579);
+}
+
+.phone_image {
+    height: 360px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+footer {
+    background-color: #111111;
+}

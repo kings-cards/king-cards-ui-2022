@@ -1,0 +1,11 @@
+.ask_section {
+    background-image: linear-gradient(to right, #181920, #626579);
+}
+
+.underline {
+    border-bottom: 2px solid white;
+}
+
+.list_item {
+    list-style-type: disc;
+}

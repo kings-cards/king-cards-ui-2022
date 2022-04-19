@@ -1,0 +1,109 @@
+/* EUCLID */
+@font-face {
+    font-family: 'euclid-bold';
+    src: url('../fonts/euclid/EuclidCircularA-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-bold-italic';
+    src: url('../fonts/euclid/EuclidCircularA-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-italic';
+    src: url('../fonts/euclid/EuclidCircularA-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-light';
+    src: url('../fonts/euclid/EuclidCircularA-Light.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-light-italic';
+    src: url('../fonts/euclid/EuclidCircularA-LightItalic.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-medium';
+    src: url('../fonts/euclid/EuclidCircularA-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-medium-italic';
+    src: url('../fonts/euclid/EuclidCircularA-MediumItalic.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-regular';
+    src: url('../fonts/euclid/EuclidCircularA-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-semibold';
+    src: url('../fonts/euclid/EuclidCircularA-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'euclid-semibold-italic';
+    src: url('../fonts/euclid/EuclidCircularA-SemiBoldItalic.ttf');
+}
+
+/* FONT CLASSES */
+.hero-text {
+    font-family: 'euclid-bold';
+    font-size: 32px;
+    line-height: 1.2;
+}
+
+.heading-1 {
+    font-family: 'euclid-semibold';
+    font-size: 24px;
+    line-height: 1.2;
+}
+
+.heading-2 {
+    font-family: 'euclid-semibold';
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.heading-3 {
+    font-family: 'euclid-semibold';
+    font-size: 18px;
+    line-height: 1.2;
+}
+
+.body-text {
+    font-family: 'euclid-regular';
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.bold-text {
+    font-family: 'euclid-bold';
+    font-size: 16px;
+    line-height: 1.2;
+}
+
+.small-text {
+    font-family: 'euclid-light';
+    font-size: 16px;
+    line-height: 1.2;
+}
+
+.x-small-text {
+    font-family: 'euclid-light';
+    font-size: 14px;
+    line-height: 1.2;
+}
+
+.emphasis-text {
+
+}
+
+/* LINE SPACING */
+
+.wide-line-height {
+    line-height: 1.5 !important;
+}

@@ -1,0 +1,30 @@
+.sell_unwanted_cards {
+    height: 425px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+.app_btn_container {
+    position: relative;
+    z-index: 2;
+}
+
+.sell_unwanted_overlay {
+    height: 15rem;
+    position: relative;
+    top: -9.5rem;
+    background-position: center top;
+    background-size: auto 130%;
+    background-repeat: no-repeat; 
+}
+
+.app_button_white {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.app_button_blue {
+    background-color: #1585D7;
+    border-radius: 8px;
+}
